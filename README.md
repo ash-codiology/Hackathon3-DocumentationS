@@ -31,5 +31,5 @@ Build a user-friendly marketplace that allows customers to effortlessly explore,
 - **Backend:** Next.js API, Sanity (CMS)  
 - **Deployment:** Vercel  
 
- # Hackathon3-DocumentationS BY ASHFA-SHAKEEL
+ # Hackathon3-Documentations BY ASHFA-SHAKEEL
  
